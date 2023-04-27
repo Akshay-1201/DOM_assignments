@@ -1,1 +1,3 @@
-[Dom 1](./readme1.md)
+[Dom 1](./dom_1/)
+
+[dom 2]()
