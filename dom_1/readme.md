@@ -36,3 +36,20 @@ para[3].innerText ='ineuron Intelligence Pvt Ltd';
 ```
 ## Task 4 output 
 ![](./task4Output.png)
+
+image update 
+
+### Code :-
+``` js
+const IMG = document.querySelector('img');
+IMG.src = 'https://avatars.githubusercontent.com/u/11613311?v=4';
+```
+
+## Task 5 output
+![](./task5Output.png)
+
+Add new button "support me" below the image 
+``` js
+const btns = document.querySelector('.hero-right-section-btns');
+btns.appendChild(document.createElement("button")).innerText = 'Support Me';
+```
